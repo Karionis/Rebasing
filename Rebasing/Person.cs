@@ -9,5 +9,6 @@ namespace Rebasing
     internal class Person
     {
         public double Age { get; set; } = 35;
+        public string Name { get; set; }
     }
 }

@@ -11,5 +11,6 @@ namespace Rebasing
         public double Age { get; set; } = 35;
         public string Name { get; set; }
         public double Height { get; set; }
+        public double Weight { get; set; }
     }
 }

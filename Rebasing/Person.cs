@@ -8,6 +8,6 @@ namespace Rebasing
 {
     internal class Person
     {
-        public double Age { get; set; }
+        public double Age { get; set; } = 35;
     }
 }
